@@ -1,3 +1,11 @@
+## 2.3.0
+
+- Set the minimum Dart SDK version to `3.0.0`.
+  - sdk: '>=3.0.0 <4.0.0'
+
+- `sass`: https://github.com/gmpassos/dart-sass.git
+  - Until it's merged officially. 
+
 ## 2.2.1
 
 - Fix a false-positive warning emitted when the default options are used.
